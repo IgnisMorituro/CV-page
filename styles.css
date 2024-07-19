@@ -1,0 +1,81 @@
+header {
+	margin-top: 15px;
+	text-align: center;
+	border: 2px solid lightskyblue;
+	border-radius: 10px;
+}
+.avatar {
+	margin-top: 20px;
+	width: 300px;
+	height: 300px;
+}
+.header__title {
+	font-size: 28px;
+}
+.header__subtitle {
+	font-size: 20px;
+	color: lightskyblue;
+}
+main {
+	text-align: center; 
+	/*border: 1px solid black;*/
+}
+.skills__list {
+	list-style: none;
+	font-size: 20px;
+}
+.description {
+	font-size: 20px;
+}
+.separate {
+	width: 55%;
+	height: 3px;
+	background-color: lightskyblue;
+}
+.gallery > img{
+	padding: 17px;
+}
+.video {
+	width: 825px;
+	height: 500px;
+	border: none;
+}
+.ed__table {
+border-collapse: collapse;
+width: 100%;
+
+}
+.ed__table td,
+.ed__table th {
+	border: 2px solid black;
+	padding: 10px;
+	background-color: lightskyblue;
+}
+h4 {
+	font-size: 19px;
+}
+.input_field {
+	display: block;
+	width: 100%;
+}
+.submit__button {
+	width: 100%;
+	background-color: lightskyblue;
+	border-radius: 5px;
+}
+.form {
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+footer {
+	height: 100px;
+	background-color: lightgray;
+	text-align: center;
+}
+.text__contact {
+	text-decoration: none;
+	font-size: 18px;
+	color: black;
+}
